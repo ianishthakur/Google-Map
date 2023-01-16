@@ -112,8 +112,8 @@ class _FireMapState extends State<FireMap> {
         //position of marker
         infoWindow: InfoWindow(
           //popup info
-          title: "Hello",
-          snippet: "Hey",
+          title: "My Location",
+          snippet: "Where I am",
         ),
         icon: BitmapDescriptor.defaultMarker,
         //Icon for Marker
